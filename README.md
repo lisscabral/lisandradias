@@ -11,7 +11,6 @@
   <img align="center" alt="Lis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/928831616615342143/928832300773441556/Lis-pic.png">
-  <img align="right" alt="Lis-pic" height="150" style="border-radius:50px;" src="https://devicons.railway.app/i/angularjs.svg">
   
 </div>
   
