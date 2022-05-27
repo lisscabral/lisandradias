@@ -11,6 +11,8 @@
   <img align="center" alt="Lis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/928831616615342143/928832300773441556/Lis-pic.png">
+  <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px"> <a href="https://angular.io" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"  alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank">
   
 </div>
   
