@@ -5,14 +5,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisscodes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lis-Java" height="30" width="40"
+  <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px"> <a href="https://angular.io" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"  alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank">
+    <img align="center" alt="Lis-Java" height="30" width="40"
        src="https://devicons.railway.app/i/java.svg">
   <img align="center" alt="Lis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/928831616615342143/928832300773441556/Lis-pic.png">
-  <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px"> <a href="https://angular.io" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"  alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank">
   
 </div>
   
