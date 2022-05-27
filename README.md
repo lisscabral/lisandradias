@@ -8,7 +8,7 @@
   <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px"> <a href="https://angular.io" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"  alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <img alt="Lis-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
+    <img alt="Lis-Java" height="40" width="40" src="https://devicons.railway.app/i/java.svg">
   <img align="right" alt="Lis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/928831616615342143/928832300773441556/Lis-pic.png">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
