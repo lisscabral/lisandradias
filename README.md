@@ -1,4 +1,4 @@
-## Hi, eu sou a Lisandra Dias 🐬
+## Hi, guys 🐬
 Through my academic projects, I've gained strong experience with Java. Currently, I focus on building REST APIs with Spring Boot and developing user interfaces using Angular. I also have skills in setting up CI/CD pipelines to automate build, test, and deployment processes. For testing, I use JUnit to ensure code stability with comprehensive unit tests. Additionally, I'm proficient in Docker for containerization to streamline application deployment. My expertise also extends to OS management, ensuring a comprehensive understanding of deployment environments.
 <div align="center">
   <a href="https://github.com/lisscodes">
